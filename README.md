@@ -20,4 +20,21 @@ Physical computing means interacting with real-world objects by programming them
 Arduino<br>
 TinkerCAD<br>
 These are both physical computing platforms that provide step by step tutorials for the Arduino Uno. <br>
-When first experimenting with different circuits, I was struggling alot with following the steps and using each separate components. Therefore, I watched a youtube video on 
+When first experimenting with different circuits, I was struggling alot with following the steps and using each separate components. Therefore, I watched a youtube video on an Arduino tutorial: LED sequential control<br>
+<br>
+LED Sequential Control step-by-step<br>
+<br>
+You will need:<br>
+1 x Arduino Uno<br>
+1 x Breadboard <br>
+1 x USB cable <br>
+3 x 220 ohm resistors <br>
+4 x jumper wires <br>
+3 x different coloured LEDs <br>
+<br>
+Step 1: Use a jumper wire to connect the ground rail on the Arduino to the negative rail on the Breadboard to find a common ground.<br>
+Step 2: Insert the all of the resistors into the breadboard spaced out. With one leg connected to the negative rail and the other in row 'E' of the breadboard.<br>
+Step 3: Now insert the LEDs, the longer side is positive, and the shorter side is negative. Connect the negative side of the LED to the horizontal rail where one of your resistors is connected, and connect the positive side to an adjacent rail. Repeat this process for each LED and each resistor.<br>
+Step 4: Now to complete the circuit, use 3 jumper wires to connect the outputs 13, 12 and 11 on the Arduino uno to each of the separate LEDs on the breadboard. Connect the positive LED on the right to output 13, thee LED in the centre to 12 and the LED on the left to 11.<br>
+Step 5: Power on the Arduino by connecting the USB to your computer. 
+Step 6: Download the correct operating system Arduino IDE in order for your system to work. Also make sure the correct port is selected. 
