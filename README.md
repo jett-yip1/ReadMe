@@ -1,9 +1,9 @@
 # <strong>A Beginner's Guide to Creative Computing</strong>
 
-<pr> *A guide created for GCD students who are struggling to grasp and are confused about creative computing.*
+<pr> *A guide created for GCD students struggling to grasp creative computing.*
   </p>
-When I was first introduced to creative computing I felt extremely overwhelmed and had never done anything like this before. I was struggling, I was frustrated with myself and felt I was incapable of even doing something like this. <br>
-Therefore, I have written this to help others who may feel the same as I did. <br>
+When I was first introduced to creative computing, I felt extremely overwhelmed as I had never done anything like this before.<br>
+Therefore, I have written this guide to help others in understanding Arduino.<br>
 <br>
 <strong>DEFINITIONS</strong>
 <br>
