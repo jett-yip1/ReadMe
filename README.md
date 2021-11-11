@@ -36,5 +36,8 @@ Step 1: Use a jumper wire to connect the ground rail on the Arduino to the negat
 Step 2: Insert the all of the resistors into the breadboard spaced out. With one leg connected to the negative rail and the other in row 'E' of the breadboard.<br>
 Step 3: Now insert the LEDs, the longer side is positive, and the shorter side is negative. Connect the negative side of the LED to the horizontal rail where one of your resistors is connected, and connect the positive side to an adjacent rail. Repeat this process for each LED and each resistor.<br>
 Step 4: Now to complete the circuit, use 3 jumper wires to connect the outputs 13, 12 and 11 on the Arduino uno to each of the separate LEDs on the breadboard. Connect the positive LED on the right to output 13, thee LED in the centre to 12 and the LED on the left to 11.<br>
-Step 5: Power on the Arduino by connecting the USB to your computer. 
-Step 6: Download the correct operating system Arduino IDE in order for your system to work. Also make sure the correct port is selected. 
+Step 5: Power on the Arduino by connecting the USB to your computer.<br>
+Step 6: Download the correct operating system Arduino IDE in order for your system to work. Also make sure the correct port is selected.<br>
+Step 7: Finally, press the upload button on the top left-hand corner of the screen to upload the programme. You will now see a green progress bar to show you how long the upload should take. If there are any errors, a message should appear in the black box at the bottom of the screen.<br>
+
+Your LEDs should now be working on your Arduino. 
