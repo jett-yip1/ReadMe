@@ -40,4 +40,8 @@ Step 5: Power on the Arduino by connecting the USB to your computer.<br>
 Step 6: Download the correct operating system Arduino IDE in order for your system to work. Also make sure the correct port is selected.<br>
 Step 7: Finally, press the upload button on the top left-hand corner of the screen to upload the programme. You will now see a green progress bar to show you how long the upload should take. If there are any errors, a message should appear in the black box at the bottom of the screen.<br>
 <br>
-Your LEDs should now be working on your Arduino. 
+Your LEDs should now be working on your Arduino.<br>
+<br>
+<br>
+<strong>LINKS</strong> <br>
+https://www.arduino.cc/en/software
