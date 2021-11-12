@@ -3,7 +3,7 @@
 <pr> *A guide created for GCD students struggling to grasp creative computing.*
   </p>
 When I was first introduced to creative computing, I felt extremely overwhelmed as I had never done anything like this before.<br>
-Therefore, I have written this guide to help others in understanding Arduino.<br>
+Therefore, I have written this guide to help others in understanding Arduino in a step by step tutorial.<br>
 <br>
 <strong>DEFINITIONS</strong>
 <br>
